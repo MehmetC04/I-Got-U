@@ -23,11 +23,11 @@ Klasörün içindeki I_Got_U.exe dosyasını çalıştırarak maceraya başlayı
 🕹️ Kontroller
 Hareket: A ve D tuşları
 
-Zıplama: Boşluk (W) tuşu
+Zıplama:  (W) tuşu
 
 Etkileşim / Yardım Etme: Space tuşu
 
-Hareket Yön tuşları 
+Hayalet Hareket Yön tuşları 
 
 🧑‍💻 Geliştirici Ekip: Byte
 Bu proje, harika bir ekip çalışmasının ürünüdür.
