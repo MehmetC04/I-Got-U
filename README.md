@@ -39,6 +39,13 @@ Game Artists & Animator: Ceyda Kuluçlu, Selin Deniz Selvi
 Game Developer: Mehmet Çakar
 
 Game Designer & Level Designer & UI/UX Designer: Kübra Göktaş
+
+
+
+
+
+
+
 [TR]
 I-Got-U
 
