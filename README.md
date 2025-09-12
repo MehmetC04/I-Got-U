@@ -16,7 +16,7 @@ This game was developed by our team in just 48 hours during the Bambu Game Jam.
 Follow these steps to play the game:
 
 Download the game from the link below:
-➡️ Click here to download the game from Google Drive ⬅️
+➡️ Click here to download the game from Google Drivehttps://drive.google.com/drive/folders/1gTLawU3NPolnhTOjbrVa9silRgMiAUmj?usp=drive_link ⬅️
 
 Extract the downloaded .zip file into a folder.
 
@@ -62,7 +62,7 @@ Bu oyun, Bambu Game Jam etkinliğinde ekibimiz tarafından sadece 48 saatte geli
 Oyunu oynamak için şu adımları izleyebilirsiniz:
 
 Oyunu buradan indirin:
-➡️ Oyunu Google Drive’dan İndirmek İçin Tıklayın ⬅️
+➡️ Oyunu Google Drive’dan İndirmek İçin Tıklayın https://drive.google.com/drive/folders/1gTLawU3NPolnhTOjbrVa9silRgMiAUmj?usp=drive_link⬅️
 
 İndirdiğiniz .zip dosyasını bir klasöre çıkartın.
 
