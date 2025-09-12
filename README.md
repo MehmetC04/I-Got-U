@@ -1,3 +1,4 @@
+# [EN]
 # I-Got-U
 
 Our game developed during a game jam with my team
@@ -35,7 +36,7 @@ This project is the result of amazing teamwork.
 * **Game Designer & Level Designer & UI/UX Designer:** Kübra Göktaş
 
 ---
-
+# [TR]
 # I-Got-U
 
 Takımımla birlikte bir game jam’de geliştirdiğimiz oyun
