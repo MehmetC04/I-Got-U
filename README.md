@@ -1,3 +1,5 @@
+[EN]
+
 I-Got-U
 
 Our game developed during a game jam with my team
@@ -37,7 +39,7 @@ Game Artists & Animator: Ceyda Kuluçlu, Selin Deniz Selvi
 Game Developer: Mehmet Çakar
 
 Game Designer & Level Designer & UI/UX Designer: Kübra Göktaş
-
+[TR]
 I-Got-U
 
 Takımımla birlikte bir game jam’de geliştirdiğimiz oyun
