@@ -1,5 +1,5 @@
 # [EN]
-# I-Got-U
+# I Got U
 
 Our game developed during a game jam with my team
 I Got U
@@ -37,7 +37,7 @@ This project is the result of amazing teamwork.
 
 ---
 # [TR]
-# I-Got-U
+# I Got U
 
 Takımımla birlikte bir game jam’de geliştirdiğimiz oyun
 I Got U
