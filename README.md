@@ -37,3 +37,45 @@ Game Artists & Animator: Ceyda Kuluçlu, Selin Deniz Selvi
 Game Developer: Mehmet Çakar
 
 Game Designer & Level Designer & UI/UX Designer: Kübra Göktaş
+
+I-Got-U
+
+Takımımla birlikte bir game jam’de geliştirdiğimiz oyun
+I Got U
+"Bazen en büyük engel yalnız olmaktır. Ama ben buradayım, yanındayım."
+
+🎮 Oyun Hakkında
+I Got U, iki karakterin birbirine güvenerek zorlu platformları aştığı, bulmaca ve yardımlaşma odaklı bir platform oyunudur.
+Bir karakterin ulaşamadığı yerlere diğeri yardım eder; biri kapıyı açar, diğeri yoluna devam eder.
+Tek başına imkânsız olan bu yolculuğun tek anahtarı, takım arkadaşına güvenmektir.
+
+Bu oyun, Bambu Game Jam etkinliğinde ekibimiz tarafından sadece 48 saatte geliştirilmiştir.
+
+🚀 Nasıl Oynanır?
+Oyunu oynamak için şu adımları izleyebilirsiniz:
+
+Oyunu buradan indirin:
+➡️ Oyunu Google Drive’dan İndirmek İçin Tıklayın ⬅️
+
+İndirdiğiniz .zip dosyasını bir klasöre çıkartın.
+
+Klasördeki I_Got_U.exe dosyasını çalıştırarak maceraya başlayın!
+
+🕹️ Kontroller
+
+Hareket: A ve D tuşları
+
+Zıplama: W tuşu
+
+Etkileşim / Yardım Etme: Space tuşu
+
+Hayalet Hareketi: Yön tuşları
+
+🧑‍💻 Geliştirici Ekip: Byte
+Bu proje, güçlü bir ekip çalışmasının ürünüdür.
+
+Oyun Sanatçıları & Animatör: Ceyda Kuluçlu, Selin Deniz Selvi
+
+Oyun Geliştirici: Mehmet Çakar
+
+Oyun Tasarımcısı & Seviye Tasarımcısı & UI/UX Tasarımcısı: Kübra Göktaş
