@@ -1,15 +1,11 @@
 <details>
-<summary><strong>Türkçe Versiyon İçin Tıklayın
-TR
-</strong></summary>
+<summary><strong>Türkçe Versiyon İçin Tıklayın [TR]</strong></summary>
 I-Got-U
 Takımımla birlikte bir game jam’de geliştirdiğimiz oyun
 I Got U
 "Bazen en büyük engel yalnız olmaktır. Ama ben buradayım, yanındayım."
 🎮 Oyun Hakkında
-I Got U, iki karakterin birbirine güvenerek zorlu platformları aştığı, bulmaca ve yardımlaşma odaklı bir platform oyunudur.
-Bir karakterin ulaşamadığı yerlere diğeri yardım eder; biri kapıyı açar, diğeri yoluna devam eder.
-Tek başına imkânsız olan bu yolculuğun tek anahtarı, takım arkadaşına güvenmektir.
+I Got U, iki karakterin birbirine güvenerek zorlu platformları aştığı, bulmaca ve yardımlaşma odaklı bir platform oyunudur. Bir karakterin ulaşamadığı yerlere diğeri yardım eder; biri kapıyı açar, diğeri yoluna devam eder. Tek başına imkânsız olan bu yolculuğun tek anahtarı, takım arkadaşına güvenmektir.
 Bu oyun, Bambu Game Jam etkinliğinde ekibimiz tarafından sadece 48 saatte geliştirilmiştir.
 🚀 Nasıl Oynanır?
 Oyunu oynamak için şu adımları izleyebilirsiniz:
@@ -30,16 +26,13 @@ Oyun Tasarımcısı & Seviye Tasarımcısı & UI/UX Tasarımcısı: Kübra Gökt
 </details>
 <hr>
 <details>
-<summary><strong>Click for English Version
-EN
-</strong></summary>
+<summary><strong>Click for English Version [EN]</strong></summary>
 I-Got-U
 Our game developed during a game jam with my team
 I Got U
 "Sometimes the greatest obstacle is being alone. But I’m here, I’m with you."
 🎮 About the Game
-I Got U is a puzzle-platformer that focuses on cooperation and trust between two characters. Together, they overcome challenging platforms by helping one another: one opens the door, the other passes through; one reaches higher ground and helps the other up.
-What’s impossible alone becomes achievable only through teamwork.
+I Got U is a puzzle-platformer that focuses on cooperation and trust between two characters. Together, they overcome challenging platforms by helping one another: one opens the door, the other passes through; one reaches higher ground and helps the other up. What’s impossible alone becomes achievable only through teamwork.
 This game was developed by our team in just 48 hours during the Bambu Game Jam.
 🚀 How to Play
 Follow these steps to play the game:
@@ -58,3 +51,4 @@ Game Artists & Animator: Ceyda Kuluçlu, Selin Deniz Selvi
 Game Developer: Mehmet Çakar
 Game Designer & Level Designer & UI/UX Designer: Kübra Göktaş
 </details>
+
