@@ -2,7 +2,7 @@
 # I Got U
 
 
-### IGotU Oynanış Videosu
+### IGotU GamePlay Video
 [![IGotU gameplay](https://img.youtube.com/vi/V-BcWxXkMiM/0.jpg)](https://www.youtube.com/watch?v=V-BcWxXkMiM "IGotU gameplay")
 
 I Got U
@@ -41,6 +41,9 @@ This project is the result of amazing teamwork.
 ---
 # [TR]
 # I Got U
+
+### IGotU Oynanış Videosu
+[![IGotU gameplay](https://img.youtube.com/vi/V-BcWxXkMiM/0.jpg)](https://www.youtube.com/watch?v=V-BcWxXkMiM "IGotU gameplay")
 
 Takımımla birlikte bir game jam’de geliştirdiğimiz oyun
 I Got U
