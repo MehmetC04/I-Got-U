@@ -1,7 +1,10 @@
 # [EN]
 # I Got U
-<iframe width="560" height="315" src="https://www.google.com/search?q=https://www.youtube.com/embed/V-BcWxXkMiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-back" allowfullscreen></iframe>
-Our game developed during a game jam with my team
+
+
+### IGotU Oynanış Videosu
+[![IGotU gameplay](https://img.youtube.com/vi/V-BcWxXkMiM/0.jpg)](https://www.youtube.com/watch?v=V-BcWxXkMiM "IGotU gameplay")
+
 I Got U
 "Sometimes the greatest obstacle is being alone. But I’m here, I’m with you."
 
